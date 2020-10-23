@@ -1,6 +1,19 @@
-## Lahman Baseball Database Exercise
+
+# Lahman Baseball Database Exercise
 - this data has been made available [online](http://www.seanlahman.com/baseball-archive/statistics/) by Sean Lahman
 - you can find a data dictionary [here](http://www.seanlahman.com/files/database/readme2016.txt)
+## Motivation
+For this project at Nashville Software School we were tasked, as a team, to answer the following questions using SQL.
+## Approach
+As a team we used GitHubs native Kanban Boards to divide up the work between each of the 5 teammates. Once we had picked a question we used SQL to analyze the relevant tables to pull our answers.
+## Work
+During this project we had a fairly short timespan from assignment date to due date. This aspect made it crucial to have great teamwork and divide and conquer. The questions I have completed are 1, 4, 6, 7, 9, and 11.
+## Overall Summary 
+This project was a wonderful learning experience for writing SQL queries including intense joins and complex CTEs along with a great introduction to Kanban boards. 
+
+#### **Below are the previously mentioned questions** 
+## Questions
+
 
 ### Use SQL queries to find answers to the *Initial Questions*. If time permits, choose one (or more) of the *Open-Ended Questions*. Toward the end of the bootcamp, we will revisit this data if time allows to combine SQL, Excel Power Pivot, and/or Python to answer more of the *Open-Ended Questions*.
 
